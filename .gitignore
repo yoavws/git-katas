@@ -3,3 +3,13 @@ git_attributes
 *.swp
 **/exercise
 **/remote
+.iws
+workspace.xml
+tasks.xml
+/.idea/.gitignore
+/.idea/git-katas.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
